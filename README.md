@@ -35,3 +35,6 @@ Associated Source Code: [v1.1.0](https://github.com/codeSTACKr/nft-landing-page/
   - Colors
 
 ## Watch the [video walkthroughs](#video-walkthrough) above for more detailed instructions.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/537a3a64-0f59-4651-b8f6-8a606781df55/deploy-status)](https://app.netlify.com/sites/skateheads/deploys)
+
