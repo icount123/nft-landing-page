@@ -38,3 +38,4 @@ Associated Source Code: [v1.1.0](https://github.com/codeSTACKr/nft-landing-page/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/537a3a64-0f59-4651-b8f6-8a606781df55/deploy-status)](https://app.netlify.com/sites/skateheads/deploys)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4360a140-6075-4a74-94a9-b31c6df1c846/deploy-status)](https://app.netlify.com/sites/skateheadsclub/deploys)
